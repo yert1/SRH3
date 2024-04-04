@@ -1,0 +1,11 @@
+streamlit
+joblib
+numpy
+pandas
+scipy
+lightfm
+pyrebase
+firebase_admin
+bson
+pymongo
+streamlit_option_menu
